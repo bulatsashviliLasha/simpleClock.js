@@ -1,1 +1,1 @@
-# [Simple Clock](https://lashareichert.github.io/simpleClock.js/)
+# [Simple Clock](https://bulatsashvililasha.github.io/simpleClock.js/)
